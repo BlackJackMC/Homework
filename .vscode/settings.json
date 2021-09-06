@@ -1,6 +1,10 @@
 {
     "files.associations": {
         "algorithm": "cpp",
-        "numeric": "cpp"
+        "numeric": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "xmemory": "cpp",
+        "xutility": "cpp"
     }
 }
